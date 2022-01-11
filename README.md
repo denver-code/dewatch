@@ -15,6 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Demonstration
+
+![](screen-20220111-234820.gif)
+
 ## Run DeWatch on your android device
 > [!NOTE]
 > For start confirm flutter instalation on your machine.
